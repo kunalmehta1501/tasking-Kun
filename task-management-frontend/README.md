@@ -8,7 +8,7 @@ This project is a frontend application for a task management system built using 
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/task-management-frontend.git
+git clone https://github.com/kunalmehta1501/tasking-Kun.git
 cd task-management-frontend
 ```
 
